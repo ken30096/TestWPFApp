@@ -41,7 +41,7 @@ namespace TestWPFApp
         {
             get
             {
-                return "Binding from WPF to UWP XAML";
+                return "Binding from WPF to UWP XAML!";
             }
         }
     }
